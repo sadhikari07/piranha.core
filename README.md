@@ -41,5 +41,7 @@ Screenshot of the app running locally:
 - Select source code to upload and upload your zipped file
 
 ### Link to the deployment:
-
+http://piranhacms-env.ung2psfipp.us-west-2.elasticbeanstalk.com/
 ### Screenshot of failed deployment
+![Screen Screen](https://github.com/sadhikari07/piranha.core/blob/master/assets/four.png)
+

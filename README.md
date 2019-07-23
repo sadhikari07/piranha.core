@@ -2,7 +2,6 @@
 
 ## Overview
 This is a group project completed by John Winters, Sudip Adhikari, Saurav Kadariya, and Peter Tyann.
-http://piranhacms.org/
 
 ## Feature Tasks:
 Create a full cloud deployment pipeline for Piranha CMS (.NET)
@@ -36,3 +35,11 @@ Screenshot of the app running locally:
 ![Screen Screen](https://github.com/sadhikari07/piranha.core/blob/master/assets/three.png)
 
 ### To deploy:
+- Open elastic beanstalk on aws console
+- Create new application
+- Create new web server envoronment
+- Select source code to upload and upload your zipped file
+
+### Link to the deployment:
+
+### Screenshot of failed deployment

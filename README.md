@@ -15,6 +15,7 @@ Create a full cloud deployment pipeline for Piranha CMS (.NET)
 
 ### To get the latest code and run it locally:
 - Fork the repo from https://github.com/PiranhaCMS/piranha.core.git
+
 On your terminal run the following commands:
 - git clone https://github.com/PiranhaCMS/piranha.core.git
 - cd piranha.core

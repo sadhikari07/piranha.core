@@ -27,6 +27,8 @@ On your terminal run the following commands:
 - On browser enter: localhost:5000
 
 Screenshot of the app running locally:
-![Screen Screen]()
+![Screen Screen](https://github.com/sadhikari07/piranha.core/blob/master/assets/one.png)
+![Screen Screen](https://github.com/sadhikari07/piranha.core/blob/master/assets/two.png)
+![Screen Screen](https://github.com/sadhikari07/piranha.core/blob/master/assets/three.png)
 
 ### To deploy:

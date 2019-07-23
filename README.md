@@ -19,17 +19,11 @@ Create a full cloud deployment pipeline for Piranha CMS (.NET)
 On your terminal run the following commands:
 - git clone https://github.com/PiranhaCMS/piranha.core.git
 - cd piranha.core
+- cd examples/
+- mkdir <some project name>
+- dotnet new piranha.web or dotnet new piranha.blog
 - dotnet restore
-- dotnet build
-- cd examples/MvcWeb
 - dotnet run
-- cd piranha.core/core/Piranha.Manager
-- npm install
-- bower install
-- cd ../../examples/MvcWeb
-- npm install
-- bower install
-
 - On browser enter: localhost:5000
 
 Screenshot of the app running locally:
